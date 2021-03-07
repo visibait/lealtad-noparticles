@@ -10,6 +10,8 @@
 
 -- RECOMIENDO ENCRIPTAR ESTO Y CAMBIAR TRIGGERS DEL POLICEJOB (Y ENCRIPTAR ESE ARCHIVO TMB) XD
 
+-- USO: /panicmode (activa el panic mode), /panicmodeoff (lo desactiva)
+
 
 local panicmode = false
 local coords = nil
