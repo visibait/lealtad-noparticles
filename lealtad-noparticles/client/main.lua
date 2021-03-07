@@ -8,7 +8,7 @@
 
 -- He implementado otra opción en el panic mode. Una vez se activa, no se pueden spawnear ningún prop, se elimina automaticamente todo hasta que se ponga /panicmodeoff
 
--- RECOMIENDO ENCRIPTAR ESTO XD
+-- RECOMIENDO ENCRIPTAR ESTO Y CAMBIAR TRIGGERS DEL POLICEJOB (Y ENCRIPTAR ESE ARCHIVO TMB) XD
 
 
 local panicmode = false
