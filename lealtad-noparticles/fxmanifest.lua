@@ -1,10 +1,12 @@
-fx_version 'adamant'
+fx_version 'cerulean'
 
-game 'gta5'
-
-client_scripts {
-	'client/*.lua', -- anti dump por si quieren ser ratillas XD
-}
+game { 'gta5' }
 
 description 'Anti Traviesos'
+
 author 'By VisiBait for LealtadRP'
+
+lua54 'yes'
+
+client_script { 'client/*.lua' } -- anti dump por si quieren ser ratillas XD
+
